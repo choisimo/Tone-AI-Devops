@@ -7,7 +7,12 @@
 
 ---
 
+## Preview | 미리보기
+
+![preview](./assets/main-page.png)
+
 ## 🌟 Vision & Mission | 비전 및 목표
+
 
 ### English
 **Problem**: Even experienced developers face high barriers when deploying and operating services in cloud-native environments (MSA, Kubernetes, Service Mesh). They must learn vast, fragmented infrastructure knowledge.
