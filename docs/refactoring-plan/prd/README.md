@@ -9,15 +9,13 @@ This directory contains product requirements documents (PRDs) for platform backe
 ## Completed Drafts
 - `auth-service-prd.md`
 - `artifact-service-prd.md`
-
-## Pending (Scaffold Planned)
-- deployment-service-prd.md
-- project-service-prd.md
-- notification-service-prd.md
-- feature-flags-service-prd.md
-- audit-analytics-service-prd.md
-- magic-canvas-service-prd.md
-- user-profile-service-prd.md
+- `deployment-service-prd.md`
+- `project-service-prd.md`
+- `notification-service-prd.md`
+- `feature-flags-service-prd.md`
+- `audit-analytics-service-prd.md`
+- `magic-canvas-service-prd.md`
+- `user-profile-service-prd.md`
 
 ## Dependency Index (High-Level)
 ```
@@ -43,4 +41,4 @@ Audit & Analytics Service: consumes events from ALL other services (Auth, Deploy
 Each PRD updated via PR referencing this directory. Template changes require approval from product + architecture leads.
 
 ---
-Last Updated: Initial population
+Last Updated: PRDs initial full set + dependency index refresh
